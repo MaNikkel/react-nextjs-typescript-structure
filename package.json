@@ -12,11 +12,15 @@
     "next-images": "^1.4.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
     "@types/node": "^14.6.0",
     "@types/react": "^16.9.46",
+    "@types/react-redux": "^7.1.9",
+    "@types/redux": "^3.6.0",
     "@types/styled-components": "^5.1.2",
     "@typescript-eslint/eslint-plugin": "^3.9.1",
     "@typescript-eslint/parser": "^3.9.1",
