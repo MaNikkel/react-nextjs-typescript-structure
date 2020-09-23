@@ -28,7 +28,7 @@ export interface IHomeState {
 }
 
 const INITIAL_STATE: IHomeState = {
-  name: 'Hello World!'
+  name: 'Hello World! next + redux + typescript'
 }
 
 export default function HomeReducer(
