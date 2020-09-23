@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import { styles } from './Home.styles'
 import Heading from './containers/Heading'
 import Input from './containers/Input'
+import Button from './containers/Button'
 
 const HomeStyled = styled.main`
   ${styles}
@@ -17,6 +18,7 @@ const Home: React.FC = () => {
       </Head>
       <Heading />
       <Input />
+      <Button />
     </HomeStyled>
   )
 }
