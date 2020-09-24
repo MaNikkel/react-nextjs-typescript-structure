@@ -8,6 +8,6 @@ export default createGlobalStyle`
   }
 
   body {
-    font: Nunito, sans-serif;
+    font-family: Nunito, sans-serif;
   }
 `
